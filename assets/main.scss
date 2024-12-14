@@ -42,4 +42,11 @@ a:hover {
 }
 strong { font-weight: normal; background: #F4EDC7; border-bottom: 1px solid #EDDC88; padding: 0.1em 0.3em; }
 
-h3 a { display: inline !important; }
+p { line-height: 2em; }
+
+h3 a { display: inline !important; color: #000 !important; border: none; }
+
+.box { border-bottom: 1px dashed #aaa; margin: 0 0 2em 0; padding: 0 0 1em 0; }
+
+blockquote { margin: 2em 0; }
+blockquote p { font-size: 0.9em !important; color: #000; }

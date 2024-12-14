@@ -1,6 +1,6 @@
 title: Lifespan
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lifespan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  rich13
 

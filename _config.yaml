@@ -8,6 +8,10 @@ url: "https://rich13.github.io"
 # set baseurl to "/my-project".
 baseurl: "lifespan"
 
+header_pages:
+  - about.md
+
+
 # Markdown processor
 markdown: kramdown
 

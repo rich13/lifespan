@@ -1,0 +1,22 @@
+title: "Lifespan"
+description: "It's about time"
+theme: minima
+# URL of your site (no trailing slash)
+url: "https://rich13.github.io"  
+# If this is your main user/organization page repo, baseurl should be empty.
+# If it's a project site (like <username>.github.io/<my-project>),
+# set baseurl to "/my-project".
+baseurl: "lifespan"
+
+# Markdown processor
+markdown: kramdown
+
+# Permalinks format for your posts
+permalink: /:year/:month/:day/:title/
+
+# Exclude any files/folders from the build
+
+
+# Plugins (GitHub Pages supports a set of whitelisted plugins)
+plugins:
+  - jekyll-feed
